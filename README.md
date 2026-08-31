@@ -1,4 +1,29 @@
-# ATLAS on an iPhone
+# GeoGuessr Hack for iPhone: the ATLAS IPA and On Screen Menu
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr hack for iPhone logo" width="110" />
+</p>
+
+<p align="center">
+  <b>A GeoGuessr hack that runs on the phone itself: an IPA you sideload, with an on screen menu during the round.</b><br/>
+  Country, town and direction while you play, and it can place the guess for you. iPhone and iPad.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-ios/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr iOS hack" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-ios?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://geoguessrcheats.com/phone"><img alt="Install steps for the ATLAS IPA on iPhone" src="https://img.shields.io/badge/Install%20steps-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for sideloading help" src="https://img.shields.io/badge/Discord-Sideloading%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Runs on iPhone and iPad" src="https://img.shields.io/badge/platform-iOS%20%2F%20iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="No jailbreak required" src="https://img.shields.io/badge/jailbreak-not%20required-2ecc71?style=for-the-badge">
+  <img alt="New in version 1.7" src="https://img.shields.io/badge/new%20in-v1.7-FF6600?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://geoguessrcheats.com/phone">Install guide</a> &middot;
+  <a href="https://geoguessrcheats.com/repo">Jailbreak repo</a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-android">Android</a>
+</p>
 
 For two years the answer to "does this work on my phone" was no. Since v1.7, in
 August 2026, it is yes.
