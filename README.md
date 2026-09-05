@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-ios/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr iOS hack" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-ios?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com/phone"><img alt="Install steps for the ATLAS IPA on iPhone" src="https://img.shields.io/badge/Install%20steps-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for sideloading help" src="https://img.shields.io/badge/Discord-Sideloading%20help-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/pfku-VrqPRE"><img alt="Watch the ATLAS iPhone install walkthrough on YouTube" src="https://img.shields.io/badge/Install%20guide-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Runs on iPhone and iPad" src="https://img.shields.io/badge/platform-iOS%20%2F%20iPadOS-000000?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="No jailbreak required" src="https://img.shields.io/badge/jailbreak-not%20required-2ecc71?style=for-the-badge">
   <img alt="New in version 1.7" src="https://img.shields.io/badge/new%20in-v1.7-FF6600?style=for-the-badge">
@@ -37,6 +38,12 @@ extension.
 <img src="images/atlas-ios-menu-open.webp" width="320" alt="The ATLAS menu open on the same round with auto guess, dry run and session options" />
 
 Install instructions, step by step: **[geoguessrcheats.com/phone](https://geoguessrcheats.com/phone)**
+
+The mod menu, on a phone:
+
+<p align="center">
+  <a href="https://youtu.be/TGbNylqSZ3I"><img src="images/video-ios-modmenu.jpg" alt="The ATLAS GeoGuessr mod menu open on an iPhone, video on YouTube" width="320" /></a>
+</p>
 
 ---
 
