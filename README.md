@@ -45,6 +45,12 @@ The mod menu, on a phone:
   <a href="https://youtu.be/TGbNylqSZ3I"><img src="images/video-ios-modmenu.jpg" alt="The ATLAS GeoGuessr mod menu open on an iPhone, video on YouTube" width="320" /></a>
 </p>
 
+## Guides on the site
+
+- [GeoGuessr cheat for iPhone and Android](https://geoguessrcheats.com/phone)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
+
 ---
 
 ## On screen during a round
