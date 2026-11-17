@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://geoguessrcheats.com/phone">Install guide</a> &middot;
   <a href="https://geoguessrcheats.com/repo">Jailbreak repo</a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-android">Android</a>
@@ -64,6 +64,9 @@ A small readout, not a wall of text over your game:
 - a dry run mode, for watching what it would have done without doing it
 
 ## Getting it onto the phone
+
+You need iOS 17 or newer, and Developer Mode switched on once under Settings,
+Privacy and Security. One key covers two phones.
 
 Apple does not have a store category for this, so installation goes the way most
 sideloaded apps go. Five routes are documented, and the right one depends on what
@@ -124,7 +127,7 @@ Yes, since the same release:
 
 ## Around the rest of it
 
-- Everything ATLAS runs on: [Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot)
+- Everything ATLAS runs on: [geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats)
 - Side by side comparison: <https://geoguessrcheats.com/platforms>
 - Release notes for v1.7: <https://geoguessrcheats.com/blog/atlas-v17-update/>
 
